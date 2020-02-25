@@ -1,0 +1,1 @@
+int luaopen_test(){puts("asd");}
