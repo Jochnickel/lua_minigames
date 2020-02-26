@@ -1,0 +1,1 @@
+_G.error = print

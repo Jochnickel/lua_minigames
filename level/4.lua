@@ -1,0 +1,1 @@
+load "print(2)"
