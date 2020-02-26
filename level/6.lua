@@ -1,4 +1,3 @@
-print "Dont peek into the files. Think about the error!"
 local o1 = {}
 local o2 = {}
 o1.asd = o2
