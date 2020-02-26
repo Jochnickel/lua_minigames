@@ -1,1 +1,1 @@
--- start the game!
+-- return function() end
