@@ -1,1 +1,1 @@
-return math.random()
+-- start the game
